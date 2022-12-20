@@ -1,0 +1,32 @@
+{
+  "name": "赛赛规则",
+  "short_name": "赛赛规则",
+  "description": "魔方赛赛参赛规则",
+  "start_url": ".",
+  "scope":".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#3eaf7c",
+  "icons": [
+    {
+      "src": "/icons/favicon_96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/favicon_144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/favicon_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/favicon_384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    }
+  ]
+}
